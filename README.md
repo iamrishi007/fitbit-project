@@ -3,6 +3,7 @@
 A full-stack **E-commerce website** inspired by Fitbit's official platform. This project features **user authentication**, secure **JWT-based login**, and a clean, responsive UI built using **React** and **Chakra UI**.
 
 ---
+![Fitbit Clone Screenshot](https://github.com/iamrishi007/fitbit-project/blob/main/client/public/fitbit.png)
 
 ## 🔗 Live Links
 
